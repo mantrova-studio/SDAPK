@@ -5,56 +5,56 @@ object RestaurantRepository {
         Restaurant(
             id = 1,
             name = "Прожарим",
-            url = "https://example.com/projarim",
+            url = "https://mantrova-studio.github.io/prozharim/",
             logoResId = R.drawable.logo_projarim,
             placeholderNote = "Замените на реальный URL сайта Прожарим"
         ),
         Restaurant(
             id = 2,
             name = "Сушидза",
-            url = "https://example.com/sushidza",
+            url = https://xn--80ahjc8bm9a.xn--p1ai/",
             logoResId = R.drawable.logo_sushidza,
             placeholderNote = "Замените на реальный URL сайта Сушидза"
         ),
         Restaurant(
             id = 3,
             name = "Банзай",
-            url = "https://example.com/banzai",
+            url = "https://xn----8sbac5acm3a5au9c.xn--p1ai/",
             logoResId = R.drawable.logo_banzai,
             placeholderNote = "Замените на реальный URL сайта Банзай"
         ),
         Restaurant(
             id = 4,
-            name = "Ресторан 4",
-            url = "https://example.com/restaurant4",
+            name = "4Руки",
+            url = "https://xn--4-ptbfxp.xn--p1ai/",
             logoResId = R.drawable.logo_rest4,
             placeholderNote = "Временная кнопка"
         ),
         Restaurant(
             id = 5,
-            name = "Ресторан 5",
-            url = "https://example.com/restaurant5",
+            name = "Чудо-Пицца",
+            url = "https://xn----8sbkr2ahy3aac.xn--p1ai/",
             logoResId = R.drawable.logo_rest5,
             placeholderNote = "Временная кнопка"
         ),
         Restaurant(
             id = 6,
-            name = "Ресторан 6",
-            url = "https://example.com/restaurant6",
+            name = "Лососнем",
+            url = "https://lososnem.ru/",
             logoResId = R.drawable.logo_rest6,
             placeholderNote = "Временная кнопка"
         ),
         Restaurant(
             id = 7,
-            name = "Ресторан 7",
-            url = "https://example.com/restaurant7",
+            name = "Самурай",
+            url = "https://samuraj56.ru/",
             logoResId = R.drawable.logo_rest7,
             placeholderNote = "Временная кнопка"
         ),
         Restaurant(
             id = 8,
-            name = "Ресторан 8",
-            url = "https://example.com/restaurant8",
+            name = "Сытый Япоша",
+            url = "https://yaposha56.ru/",
             logoResId = R.drawable.logo_rest8,
             placeholderNote = "Временная кнопка"
         )
