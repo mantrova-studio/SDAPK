@@ -101,8 +101,6 @@ class RestaurantWebViewActivity : AppCompatActivity() {
 
     override fun onDestroy() {
         binding.webView.stopLoading()
-        binding.webView.webChromeClient = null
-        binding.webView.webViewClient = null
         binding.webView.destroy()
         super.onDestroy()
     }
