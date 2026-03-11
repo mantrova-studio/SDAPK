@@ -10,20 +10,10 @@
         android:id="@+id/textTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Выберите ресторан"
+        android:text="Выберите ресторан:"
         android:textColor="@color/textPrimary"
         android:textSize="28sp"
         android:textStyle="bold" />
-
-    <TextView
-        android:id="@+id/textSubtitle"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="8dp"
-        android:layout_marginBottom="18dp"
-        android:text="Откройте нужный сайт в приложении"
-        android:textColor="@color/textSecondary"
-        android:textSize="14sp" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerRestaurants"
